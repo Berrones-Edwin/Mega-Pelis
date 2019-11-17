@@ -14,3 +14,5 @@ No, es totalmente gratis, no hay de planes de suscripción ni nada por el estilo
 Mega-Pelis utiliza la API TMDb para todos los datos de las películas y series incluyendo las imágenes de que se muestran. Mega-Pelis es multiplataforma usted puede acceder desde su ordenador, tableta o desde su móvil.
 * * * 
 **Nota Importante:** Este producto utiliza la API TMDb pero no está avalado ni certificado por TMDb. Términos y condiciones [Ir a Términos y Condiciones](https://www.themoviedb.org/documentation/api/terms-of-use )
+* * *
+**Ver Demo** (https://berrones-edwin.github.io/Mega-Pelis/)
